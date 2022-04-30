@@ -1,4 +1,5 @@
 # Getting Started
+## Алексей Сурнов MAC2031
 
 A simple CRUD-application that integrated with nosql graph database - neo4j.
 There are 2 simple entities: User and Movie. User can have a RELATIONSHIP with movie -- it means, that 
